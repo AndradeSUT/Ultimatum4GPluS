@@ -1,8 +1,10 @@
-# INSTALADOR SCLIPT 4G
+# INSTALADOR ULTIMATUM 4GPLUS
 ```
-apt install wget -y; wget https://raw.githubusercontent.com/Jrtnetvpn/4g/main/install.sh && chmod +x install.sh && ./install*
+apt install wget -y; wget https://raw.githubusercontent.com/AndradeSUT/Ultimatum4GPluS/main/install.sh && chmod +x install.sh && ./install*
 ```
-
+```
+CHAVE @nandoslayer
+```
 # DESCRIÇÃO
 ```
  INSTALAR PAINEL INTERNET-SSH NO UBUNTU 18!
